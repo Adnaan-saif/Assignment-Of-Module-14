@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "image":".src/Image/Capture2.PNG",     
+        "title":"Grow Your Bussiness",
+        "description":"We help identify the best way to improve your bussiness",
+        "button":"Learn more"        
+    },
+    {
+        "id":2,
+        "image":".src/Image/Capture3.PNG",     
+        "title":"Improve Brand Loyality",
+        "description":"We help identify the best way to improve your bussiness",
+        "button":"Learn more"
+    },
+    {
+        "id":2,
+        "image":".src/Image/Capture4.PNG",     
+        "title":"Improve Bussiness Model",
+        "description":"We help identify the best way to improve your bussiness",
+        "button":"Learn more"
+    }
+]
