@@ -17,7 +17,7 @@ const Navbar = (props) => {
                 <li className=' mr-1'><NavLink to={"/project"}>Project</NavLink></li>
                 <li className=' mr-1'><NavLink to={"/testimonial"}>Testimonial</NavLink></li>
                 <li>
-                    <button className=" bg-transparent border-green-600 border-2 mr-2">Button</button>
+                    <button className=" bg-transparent border-green-600 border mr-2">Button</button>
                 </li>
                 <li>
                     <button className=" bg-green-500 text-black mr-2">Register</button>
